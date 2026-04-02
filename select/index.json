@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "DRAGONNAP",
+  "base_artist": "暁Records",
+  "createdAt": "2026-04-02T05:10:24.049569Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DRAGONNAP",
+      "artist": "暁Records",
+      "has_synced": false,
+      "path": "select/pl_01_DRAGONNAP_暁Records.txt"
+    }
+  ]
+}
